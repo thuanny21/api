@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thuanny21/api/issues"
   },
-  "homepage": "https://github.com/thuanny21/api#readme"
+  "homepage": "https://github.com/thuanny21/api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
